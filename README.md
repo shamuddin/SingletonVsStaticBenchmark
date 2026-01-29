@@ -73,7 +73,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ---
 
-## ✨ Feedback
+## ✨ Feedback.
 
 Have ideas or suggestions? Open an issue or contact us directly. Let’s collaborate and make this project even better! 🌟
 
